@@ -1,0 +1,18 @@
+[
+    { "question": "What is 2+2?", "options": ["3", "4", "5"], "correctAnswer": "4" },
+    { "question": "What is 5*5?", "options": ["20", "25", "30"], "correctAnswer": "25" },
+    { "question": "What is 10-4?", "options": ["6", "7", "8"], "correctAnswer": "6" },
+    { "question": "What is 9/3?", "options": ["2", "3", "4"], "correctAnswer": "3" },
+    { "question": "What is the square root of 16?", "options": ["2", "4", "8"], "correctAnswer": "4" },
+    { "question": "What is 7*6?", "options": ["42", "36", "48"], "correctAnswer": "42" },
+    { "question": "What is 15% of 200?", "options": ["20", "30", "40"], "correctAnswer": "30" },
+    { "question": "What is the result of 8 squared?", "options": ["64", "16", "32"], "correctAnswer": "64" },
+    { "question": "What is 100 divided by 4?", "options": ["20", "25", "30"], "correctAnswer": "25" },
+    { "question": "What is 12+7?", "options": ["17", "18", "19"], "correctAnswer": "19" },
+    { "question": "What is 3*9?", "options": ["27", "18", "36"], "correctAnswer": "27" },
+    { "question": "What is 5^3?", "options": ["125", "25", "15"], "correctAnswer": "125" },
+    { "question": "What is 50% of 60?", "options": ["30", "40", "20"], "correctAnswer": "30" },
+    { "question": "What is 14 divided by 2?", "options": ["7", "8", "6"], "correctAnswer": "7" },
+    { "question": "What is 3+3*3?", "options": ["9", "12", "15"], "correctAnswer": "12" }
+  ]
+  

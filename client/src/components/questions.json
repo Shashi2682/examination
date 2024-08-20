@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What does CPU stand for?",
+    "options": ["Central Process Unit", "Central Processing Unit", "Computer Personal Unit", "Central Processor Unit"],
+    "correctAnswer": "Central Processing Unit"
+  },
+  {
+    "question": "Which of the following is a programming language?",
+    "options": ["HTML", "CSS", "Python", "SQL"],
+    "correctAnswer": "Python"
+  },
+  {
+    "question": "What does HTTP stand for?",
+    "options": ["Hypertext Transfer Protocol", "Hyperlink Transfer Protocol", "Hyper Transfer Text Protocol", "Hypertext Transfer Program"],
+    "correctAnswer": "Hypertext Transfer Protocol"
+  },
+  {
+    "question": "Which of the following is used to style a webpage?",
+    "options": ["HTML", "CSS", "Python", "JavaScript"],
+    "correctAnswer": "CSS"
+  },
+  {
+    "question": "What does RAM stand for?",
+    "options": ["Random Access Memory", "Read Access Memory", "Read And Memorize", "Random Allocation Memory"],
+    "correctAnswer": "Random Access Memory"
+  },
+  {
+    "question": "Which of the following is an operating system?",
+    "options": ["Windows", "Google", "Microsoft", "Apple"],
+    "correctAnswer": "Windows"
+  },
+  {
+    "question": "What is the most popular programming language in 2024?",
+    "options": ["Java", "C++", "Python", "JavaScript"],
+    "correctAnswer": "Python"
+  },
+  {
+    "question": "Which company developed the Java programming language?",
+    "options": ["Microsoft", "Sun Microsystems", "Oracle", "Google"],
+    "correctAnswer": "Sun Microsystems"
+  },
+  {
+    "question": "Which data structure uses FIFO (First In, First Out)?",
+    "options": ["Stack", "Queue", "Array", "Linked List"],
+    "correctAnswer": "Queue"
+  },
+  {
+    "question": "What does CSS stand for?",
+    "options": ["Cascading Style Sheets", "Computer Style Sheets", "Creative Style Sheets", "Cascading System Sheets"],
+    "correctAnswer": "Cascading Style Sheets"
+  },
+  {
+    "question": "Which of the following is a NoSQL database?",
+    "options": ["MySQL", "MongoDB", "PostgreSQL", "Oracle"],
+    "correctAnswer": "MongoDB"
+  },
+  {
+    "question": "Which programming language is primarily used for web development?",
+    "options": ["Java", "Python", "JavaScript", "C++"],
+    "correctAnswer": "JavaScript"
+  },
+  {
+    "question": "Which of the following is an example of cloud storage?",
+    "options": ["Dropbox", "RAM", "CPU", "SSD"],
+    "correctAnswer": "Dropbox"
+  },
+  {
+    "question": "Which of the following is a version control system?",
+    "options": ["Git", "Jenkins", "Docker", "Kubernetes"],
+    "correctAnswer": "Git"
+  },
+  {
+    "question": "What does API stand for?",
+    "options": ["Application Programming Interface", "Application Process Integration", "Application Programming Integration", "Automated Programming Interface"],
+    "correctAnswer": "Application Programming Interface"
+  },
+  {
+    "question": "Which protocol is used to securely transfer files over the internet?",
+    "options": ["HTTP", "FTP", "SFTP", "SMTP"],
+    "correctAnswer": "SFTP"
+  },
+  {
+    "question": "Which of the following is a database management system?",
+    "options": ["GitHub", "Docker", "MySQL", "Kubernetes"],
+    "correctAnswer": "MySQL"
+  },
+  {
+    "question": "Which of the following is a front-end JavaScript framework?",
+    "options": ["React", "Node.js", "Django", "Flask"],
+    "correctAnswer": "React"
+  },
+  {
+    "question": "Which of the following is an algorithm to find the shortest path in a graph?",
+    "options": ["Dijkstra's Algorithm", "Bubble Sort", "Merge Sort", "Binary Search"],
+    "correctAnswer": "Dijkstra's Algorithm"
+  },
+  {
+    "question": "Which of the following is a key-value pair storage system?",
+    "options": ["Redis", "MySQL", "PostgreSQL", "Oracle"],
+    "correctAnswer": "Redis"
+  },
+  {
+    "question": "What does SQL stand for?",
+    "options": ["Structured Query Language", "Structured Question Language", "Sequential Query Language", "Sequential Question Language"],
+    "correctAnswer": "Structured Query Language"
+  },
+  {
+    "question": "Which of the following is a principle of Object-Oriented Programming?",
+    "options": ["Encapsulation", "Polymorphism", "Inheritance", "All of the above"],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "question": "Which of the following is used to develop Android applications?",
+    "options": ["Java", "Swift", "Kotlin", "Objective-C"],
+    "correctAnswer": "Kotlin"
+  },
+  {
+    "question": "Which of the following is a unit of data in a database?",
+    "options": ["Field", "Record", "Table", "All of the above"],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "question": "Which of the following is a technique for hiding the internal details of an object?",
+    "options": ["Encapsulation", "Polymorphism", "Abstraction", "Inheritance"],
+    "correctAnswer": "Abstraction"
+  },
+  {
+    "question": "What is the time complexity of binary search?",
+    "options": ["O(n)", "O(log n)", "O(n^2)", "O(1)"],
+    "correctAnswer": "O(log n)"
+  },
+  {
+    "question": "Which of the following is an example of an interpreted language?",
+    "options": ["C++", "Java", "Python", "Assembly"],
+    "correctAnswer": "Python"
+  },
+  {
+    "question": "Which of the following is used to communicate between the client and the server?",
+    "options": ["REST API", "Compiler", "IDE", "Debugger"],
+    "correctAnswer": "REST API"
+  },
+  {
+    "question": "Which of the following is an example of a statically typed language?",
+    "options": ["JavaScript", "Python", "Java", "Ruby"],
+    "correctAnswer": "Java"
+  },
+  {
+    "question": "Which of the following is used to automate the deployment of applications?",
+    "options": ["Docker", "React", "Git", "NPM"],
+    "correctAnswer": "Docker"
+  }
+]

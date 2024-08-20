@@ -1,0 +1,18 @@
+[
+    { "question": "Who wrote 'Romeo and Juliet'?", "options": ["William Shakespeare", "Jane Austen", "Mark Twain"], "correctAnswer": "William Shakespeare" },
+    { "question": "What is the title of the first Harry Potter book?", "options": ["Harry Potter and the Philosopher's Stone", "Harry Potter and the Chamber of Secrets", "Harry Potter and the Prisoner of Azkaban"], "correctAnswer": "Harry Potter and the Philosopher's Stone" },
+    { "question": "Who wrote 'Pride and Prejudice'?", "options": ["Jane Austen", "Charlotte Brontë", "Emily Dickinson"], "correctAnswer": "Jane Austen" },
+    { "question": "In which novel does the character Holden Caulfield appear?", "options": ["The Catcher in the Rye", "To Kill a Mockingbird", "1984"], "correctAnswer": "The Catcher in the Rye" },
+    { "question": "Who is the author of 'Moby-Dick'?", "options": ["Herman Melville", "Nathaniel Hawthorne", "Edgar Allan Poe"], "correctAnswer": "Herman Melville" },
+    { "question": "What is the name of the fictional town in 'To Kill a Mockingbird'?", "options": ["Maycomb", "Salem", "Gotham"], "correctAnswer": "Maycomb" },
+    { "question": "Which book starts with 'It was the best of times, it was the worst of times'?", "options": ["A Tale of Two Cities", "Great Expectations", "Bleak House"], "correctAnswer": "A Tale of Two Cities" },
+    { "question": "Who wrote 'The Great Gatsby'?", "options": ["F. Scott Fitzgerald", "Ernest Hemingway", "John Steinbeck"], "correctAnswer": "F. Scott Fitzgerald" },
+    { "question": "In which novel does the character Atticus Finch appear?", "options": ["To Kill a Mockingbird", "The Grapes of Wrath", "Lord of the Flies"], "correctAnswer": "To Kill a Mockingbird" },
+    { "question": "Who wrote 'The Lord of the Rings'?", "options": ["J.R.R. Tolkien", "C.S. Lewis", "J.K. Rowling"], "correctAnswer": "J.R.R. Tolkien" },
+    { "question": "What is the name of the protagonist in 'Jane Eyre'?", "options": ["Jane Eyre", "Elizabeth Bennet", "Emma Woodhouse"], "correctAnswer": "Jane Eyre" },
+    { "question": "Which novel is set in the dystopian future where Big Brother is watching?", "options": ["1984", "Brave New World", "Fahrenheit 451"], "correctAnswer": "1984" },
+    { "question": "Who is the author of 'Wuthering Heights'?", "options": ["Emily Brontë", "Charlotte Brontë", "Anne Brontë"], "correctAnswer": "Emily Brontë" },
+    { "question": "What is the name of the ship in 'Moby-Dick'?", "options": ["Pequod", "Nautilus", "Jolly Roger"], "correctAnswer": "Pequod" },
+    { "question": "Who wrote 'The Catcher in the Rye'?", "options": ["J.D. Salinger", "J.D. Robb", "J.K. Rowling"], "correctAnswer": "J.D. Salinger" }
+  ]
+  
