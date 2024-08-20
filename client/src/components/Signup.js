@@ -30,11 +30,7 @@ const Signup = () => {
     <div className={styles.container}>
       <h1>Welcome to Cipher School</h1>
       <h2>Assignment made by - Nalawade Shashikant Kiran</h2>
-      <div className={styles.additionalRows}>
-        <p>This is the first additional row with some information.</p>
-        <p>This is the second additional row with more details.</p>
-        <p>This is the third additional row with extra content.</p>
-      </div>
+     
       <form onSubmit={handleSubmit} className={styles.form}>
         <div className={styles.formGroup}>
           <input 
