@@ -26,7 +26,7 @@ const Score = () => {
     };
 
     try {
-      const response = await fetch('http://localhost:5000/send-score', {
+      const response = await fetch('https://examination-1.onrender.com/send-score', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
