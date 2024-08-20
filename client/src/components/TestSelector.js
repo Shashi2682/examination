@@ -16,7 +16,7 @@ const TestSelector = () => {
       navigate("/login");
     } else {
       // Token is valid
-      alert("Token is valid!");
+     
       console.log('Token:', authToken);
       console.log('Is Logged In:', isLoggedIn);
     }
