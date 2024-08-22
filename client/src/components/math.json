@@ -1,18 +1,17 @@
 [
-    { "question": "What is 2+2?", "options": ["3", "4", "5"], "correctAnswer": "4" },
-    { "question": "What is 5*5?", "options": ["20", "25", "30"], "correctAnswer": "25" },
-    { "question": "What is 10-4?", "options": ["6", "7", "8"], "correctAnswer": "6" },
-    { "question": "What is 9/3?", "options": ["2", "3", "4"], "correctAnswer": "3" },
-    { "question": "What is the square root of 16?", "options": ["2", "4", "8"], "correctAnswer": "4" },
-    { "question": "What is 7*6?", "options": ["42", "36", "48"], "correctAnswer": "42" },
-    { "question": "What is 15% of 200?", "options": ["20", "30", "40"], "correctAnswer": "30" },
-    { "question": "What is the result of 8 squared?", "options": ["64", "16", "32"], "correctAnswer": "64" },
-    { "question": "What is 100 divided by 4?", "options": ["20", "25", "30"], "correctAnswer": "25" },
-    { "question": "What is 12+7?", "options": ["17", "18", "19"], "correctAnswer": "19" },
-    { "question": "What is 3*9?", "options": ["27", "18", "36"], "correctAnswer": "27" },
-    { "question": "What is 5^3?", "options": ["125", "25", "15"], "correctAnswer": "125" },
-    { "question": "What is 50% of 60?", "options": ["30", "40", "20"], "correctAnswer": "30" },
-    { "question": "What is 14 divided by 2?", "options": ["7", "8", "6"], "correctAnswer": "7" },
-    { "question": "What is 3+3*3?", "options": ["9", "12", "15"], "correctAnswer": "12" }
-  ]
-  
+  { "question": "Find the 17th term from the end of the AP: 1, 6, 11, 16 … … 211, 216.", "options": ["161", "146", "101", "76"], "correctAnswer": "146" },
+  { "question": "What is the common difference of an A.P. in which a21 − a7 = 84?", "options": ["6", "8", "12", "14"], "correctAnswer": "6" },
+  { "question": "Find the tenth term of the sequence √2, √8, √18, …", "options": ["√162", "√200", "√242", "√288"], "correctAnswer": "√162" },
+  { "question": "For what value of k will the consecutive terms 2k + 1, 3k + 3 and 5k − 1 form an A.P.?", "options": ["k = 2", "k = 3", "k = 4", "k = 5"], "correctAnswer": "k = 2" },
+  { "question": "Find the 9th term from the end (towards the first term) of the A.P. 5,9,13, … … ,185.", "options": ["129", "137", "141", "149"], "correctAnswer": "149" },
+  { "question": "For what value of k will k + 9, 2k − 1 and 2k + 7 are the consecutive terms of an A.P.?", "options": ["k = 1", "k = 2", "k = 3", "k = 4"], "correctAnswer": "k = 3" },
+  { "question": "If the common difference of an AP is 3, then what is a15 − a9?", "options": ["18", "12", "15", "9"], "correctAnswer": "18" },
+  { "question": "Find the 25th term of the A.P. −5, −5/2, 0, 5/2, …", "options": ["27.5", "30", "32.5", "35"], "correctAnswer": "27.5" },
+  { "question": "If k, 2k − 1 and 2k + 1 are three consecutive terms of an A.P., the value of k is:", "options": ["2", "3", "-3", "5"], "correctAnswer": "2" },
+  { "question": "The common difference of the AP 1/p, (1−p)/p, (1−2p)/p, … … is:", "options": ["p", "−p", "−1", "1"], "correctAnswer": "−1" },
+  { "question": "If the nth term of an A. P. is (2n + 1), then the sum of its first three terms is:", "options": ["6n + 3", "15", "12", "21"], "correctAnswer": "15" },
+  { "question": "The next term of the A. P. √18, √50, √98, … is:", "options": ["√146", "√128", "√162", "√200"], "correctAnswer": "√162" },
+  { "question": "The sum of first 20 odd natural numbers is:", "options": ["100", "210", "400", "420"], "correctAnswer": "400" },
+  { "question": "If the common difference of an A.P. is 3, then a20 − a15 is:", "options": ["5", "3", "15", "20"], "correctAnswer": "15" },
+  { "question": "The value of a30 − a20 for the A.P. 2, 7, 12, 17, … is:", "options": ["50", "45", "55", "60"], "correctAnswer": "50" }
+]
